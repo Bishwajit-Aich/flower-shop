@@ -1,0 +1,24 @@
+/* Google Font style */
+
+*{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Overpass', sans-serif;
+}
+
+
+
+
+/* Footer Style Start */
+
+.footer{
+    background-color: black;
+    padding: 100px 300px;
+    margin: 100px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.90);
+}
+
+.footer-year{
+color: rgba(255, 255, 255, 0.40);
+}
