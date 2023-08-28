@@ -109,14 +109,32 @@ flex-shrink: 0;
 background: rgba(39, 39, 39, 0.05);
 padding: 100px 0;
 
-
-  
- 
 }
 
 .buy,.sell{
     margin-top: 100px;
 }
+
+.deals{
+    background-image: url('../images/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-position: 75%;
+    padding: 50px;
+    text-align: center;
+    padding: 70px;
+    margin: 30px;
+}
+
+.deals-input{
+    margin-top: 10px;
+    color: #FFF;
+font-size: 15px;
+font-weight: 700;
+padding: 10px 20px;
+border: none;
+width: 300px;
+}
+
 
 
 
